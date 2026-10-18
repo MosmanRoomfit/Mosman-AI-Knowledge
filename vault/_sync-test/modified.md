@@ -1,4 +1,4 @@
 # Sync test modified fixture
 
-State: baseline
-Purpose: verify a later content modification.
+State: modified
+Purpose: verify an existing file content change in the same atomic commit.
